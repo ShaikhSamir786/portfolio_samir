@@ -36,9 +36,31 @@ This project demonstrates my ability to build modern web applications using tech
 ### Tools
 - Git, GitHub
 - Visual Studio Code
-- Chrome DevTools
+  
+---
+
+
+## 📬 Contact Me
+
+- **Email:** [22amtics312@gmail.com](mailto:22amtics312@gmail.com)
+- **Phone:** +91 8320927182
+- **GitHub:** [@ShaikhSamir786](https://github.com/ShaikhSamir786)
+- **LinkedIn:** [Samir Shaikh](https://www.linkedin.com/in/samir-shaikh-760b932a8/)
 
 ---
 
-## 📁 Project Structure
+## 📌 Status
+
+- ✅ Frontend UI completed
+- 🔧 Backend integration in progress
+- 🧪 Projects section placeholders added
+- 🌱 Continuously learning & improving Node.js + API integrations
+
+---
+
+## 🙌 Thanks for Visiting!
+
+If you find this helpful or inspiring, give it a ⭐ on [GitHub](https://github.com/ShaikhSamir786)!
+
+
 
